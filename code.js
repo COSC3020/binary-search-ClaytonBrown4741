@@ -37,5 +37,5 @@ function binarySearch(list, element) {
 	return a
 }
 
-var a = binarySearch([1,0,0], 1)
-console.log(a)
+//var a = binarySearch([0], 1)
+//console.log(a)

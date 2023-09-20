@@ -7,3 +7,5 @@ not there.
 
 Use the template in `code.js`. The tests in `code.test.js` will be run
 automatically every time you push to Github; if they pass you are done.
+
+COMMENTS: The code should be completely operational now! Let me know if there are any issues on your end!
